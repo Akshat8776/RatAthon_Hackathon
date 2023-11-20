@@ -1,5 +1,6 @@
 # RatGain_Hackathon
 My approach
+
 Step 1: Analyzed RatGain website and problem statement
 Step 2: Try to fetch the web content using request
       Problem: Company applied some security due to which i failed to fetch the web content.
